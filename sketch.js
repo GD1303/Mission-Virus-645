@@ -392,15 +392,15 @@ function draw() {
 
     textFont("Candara");
     textSize(40);
-    textAlign(LEFT);
+    textAlign(CENTER);
     fill(255);
-    text("To move up: USE ↑ ARROW, OR THE 'W' LETTER KEY", textbg7.x - 800, textbg7.height/6 + 100);
+    text("To move up: USE ↑ ARROW, OR THE 'W' LETTER KEY", textbg7.x - 300, textbg7.height/6 + 100);
     
     textFont("Candara");
     textSize(40);
-    textAlign(LEFT);
+    textAlign(CENTER);
     fill(255);
-    text("To move down: USE ↓ ARROW, OR THE 'S' LETTER KEY", textbg7.x - 800, textbg7.height/6 + 180);
+    text("To move down: USE ↓ ARROW, OR THE 'S' LETTER KEY", textbg7.x - 300, textbg7.height/6 + 180);
     
     textFont("Candara");
     textSize(40);
