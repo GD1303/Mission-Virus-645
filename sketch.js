@@ -406,7 +406,7 @@ function draw() {
     textSize(40);
     textAlign(LEFT);
     fill(255);
-    text("To shoot: USE SPACEBAR OR RIGHT CLICK", textbg7.x - 800, textbg7.height/6 + 260);
+    text("To shoot: USE SPACEBAR OR RIGHT CLICK", textbg7.x, textbg7.height/6 + 260);
     
     textFont("Courier");
     textSize(30);
