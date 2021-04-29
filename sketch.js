@@ -404,7 +404,7 @@ function draw() {
     
     textFont("Candara");
     textSize(40);
-    textAlign(LEFT);
+    textAlign(CENTER);
     fill(255);
     text("To shoot: USE SPACEBAR OR RIGHT CLICK", textbg7.x, textbg7.height/6 + 260);
     
