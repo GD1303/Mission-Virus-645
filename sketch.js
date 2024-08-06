@@ -633,7 +633,7 @@ function draw() {
     textSize(30);
     textAlign(CENTER);
     fill(255);
-    text("Oh no! You're ship's infected. Abort!", gameOver.x, gameOver.y - 200);
+    text("Oh no! Your ship's infected. Abort!", gameOver.x, gameOver.y - 200);
 
     bg1.velocityX = 0;
 
